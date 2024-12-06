@@ -31,3 +31,9 @@
 [submodule "product/dev"]
 	path = product/dev
 	url = https://github.com/edgebox-iot/dev.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/edgebox-iot/docs.git
+[submodule "website"]
+	path = website
+	url = https://github.com/edgebox-iot/website.git
