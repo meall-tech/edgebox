@@ -10,3 +10,24 @@
 [submodule "tools/image-builder"]
 	path = tools/image-builder
 	url = https://github.com/edgebox-iot/image-builder
+[submodule "product/edgeboxctl"]
+	path = product/edgeboxctl
+	url = https://github.com/edgebox-iot/edgeboxctl.git
+[submodule "product/api"]
+	path = product/api
+	url = https://github.com/edgebox-iot/api.git
+[submodule "product/ws"]
+	path = product/ws
+	url = https://github.com/edgebox-iot/ws.git
+[submodule "product/apps"]
+	path = product/apps
+	url = https://github.com/edgebox-iot/apps.git
+[submodule "product/updater"]
+	path = product/updater
+	url = https://github.com/edgebox-iot/updater.git
+[submodule "product/logger"]
+	path = product/logger
+	url = https://github.com/edgebox-iot/logger.git
+[submodule "product/dev"]
+	path = product/dev
+	url = https://github.com/edgebox-iot/dev.git
