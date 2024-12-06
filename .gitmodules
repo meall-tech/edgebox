@@ -1,3 +1,12 @@
 [submodule "tools/install"]
 	path = tools/install
 	url = https://github.com/edgebox-iot/install.git
+[submodule "tools/multipass-config"]
+	path = tools/multipass-config
+	url = https://github.com/edgebox-iot/multipass-config
+[submodule "tools/ua-netinst-config"]
+	path = tools/ua-netinst-config
+	url = https://github.com/edgebox-iot/ua-netinst-config
+[submodule "tools/image-builder"]
+	path = tools/image-builder
+	url = https://github.com/edgebox-iot/image-builder
